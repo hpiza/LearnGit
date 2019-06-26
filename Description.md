@@ -1,5 +1,4 @@
-git log
-# Testing Git
+# Testing Git2
 
 Some text
 
